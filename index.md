@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# 🇳🇱 Learning Dutch 
+🇳🇱 Learning Dutch 
 
 Welcome to my personal project for learning Dutch.  
 This repository serves as both a structured learning journal and a resource library.
 
 ---
 
-## 📚 Goals
+📚 Goals
 - Reach **CEFR Level B2** by the end of 2026.
 - Improve comprehension of Dutch media (news, podcasts, and conversation).
 - Build a vocabulary of at least **5,000 words**.
 
 ---
 
-## 🗂️ Structure
+🗂️ Structure
 | Folder | Purpose |
 |---------|----------|
 | `/diary` | Learning logs and progress notes |
@@ -27,7 +27,7 @@ This repository serves as both a structured learning journal and a resource libr
 
 ---
 
-## 🧩 Tools & Techniques
+🧩 Tools & Techniques
 - **Anki** for spaced repetition
 - **DutchPod101** for listening practice
 - **ChatGPT & Deepl** for writing correction
@@ -35,7 +35,7 @@ This repository serves as both a structured learning journal and a resource libr
 
 ---
 
-## 🏁 Progress
+🏁 Progress
 | Date | Focus | Notes |
 |------|--------|-------|
 | 2025-10-17 | Vocabulary: Food & Drinks | Learned 50 new words, practiced pronunciation. |
