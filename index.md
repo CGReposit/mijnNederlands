@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# 🇳🇱 Learning Dutch — Daniel’s Journey
+# 🇳🇱 Learning Dutch 
 
 Welcome to my personal project for learning Dutch.  
-This repository serves as both a structured learning journal and a resource library for anyone studying Nederlands.
+This repository serves as both a structured learning journal and a resource library.
 
 ---
 
