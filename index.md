@@ -2,8 +2,6 @@
 layout: default
 ---
 
-🇳🇱 Learning Dutch 
-
 Welcome to my personal project for learning Dutch.  
 This repository serves as both a structured learning journal and a resource library.
 
