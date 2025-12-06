@@ -39,8 +39,16 @@
 
     <div class="wrapper">
       <nav>
-        <ul></ul>
-      </nav>
+  <ul>
+    {% assign pages_list = site.pages | sort: "title" %}
+    {% for p in pages_list %}
+      {% if p.title and p.url contains "/" and p.url != "/404.html" %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
       <section>
         {{ content }}
 
