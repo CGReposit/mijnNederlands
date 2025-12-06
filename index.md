@@ -7,6 +7,10 @@ This repository serves as both a structured learning journal and a resource libr
 
 ---
 
+I decided to learn Dutch in 2023. It had been a while since I seriously attempted to learn another language. After two years and even having moved to the Netherlands, I still do not have a level I consider sufficient 🥲 So I decided to make this Github page to consolidate all the many tools and resources I use to learn this language in one place. Hopefully, by incorporating coding and other elements, the memorization that typically goes into learning a language will be easier
+
+---
+
 📚 Goals
 - Reach **CEFR Level B2** by the end of 2026.
 - Improve comprehension of Dutch media (news, podcasts, and conversation).
