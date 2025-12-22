@@ -1,155 +1,154 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Mijn Nederlands</title>
 
-Welcome to my personal project for learning Dutch.  
-This repository serves as both a structured learning journal and a resource library.
+  <style>
+    /* === GLOBAL STYLES === */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
 
----
+    /* === HEADER === */
+    header {
+      background: #f4f4f4;
+      padding: 1rem;
+      text-align: center;
+      font-size: 1.4rem;
+      font-weight: bold;
+      border-bottom: 2px solid #ddd;
+    }
 
-I decided to learn Dutch in 2023. It had been a while since I seriously attempted to learn another language. After two years and even having moved to the Netherlands, I still do not have a level I consider sufficient 🥲 So I decided to make this Github page to consolidate all the many tools and resources I use to learn this language in one place. Hopefully, by incorporating coding and other elements, the memorization that typically goes into learning a language will be easier
+    /* === MAIN LAYOUT === */
+    .container {
+      display: flex;
+      flex: 1;
+      gap: 2rem;
+      padding: 1rem;
+    }
 
----
+    /* === LEFT NAV === */
+    nav {
+      min-width: 240px;
+      max-width: 280px;
+      border-right: 1px solid #ccc;
+      padding-right: 1rem;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    nav li + li {
+      margin-top: 0.6rem;
+    }
+    nav a {
+      display: block;
+      padding: 0.35rem 0.5rem;
+      border-radius: 4px;
+    }
+    nav a:hover {
+      background: #eef;
+    }
+    nav .section-title {
+      font-size: 1.15rem;
+      font-weight: bold;
+      margin: 1rem 0 0.5rem;
+      text-transform: uppercase;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.25rem;
+    }
 
-📚 Goals
-- Reach **CEFR Level B2** by the end of 2026.
-- Improve comprehension of Dutch media (news, podcasts, and conversation).
-- Build a vocabulary of at least **5,000 words**.
+    /* === MAIN CONTENT === */
+    main {
+      flex: 1;
+      max-width: 720px;
+    }
+    h1 {
+      margin-top: 0;
+    }
 
----
+    /* === RESPONSIVE === */
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+      }
+      nav {
+        max-width: none;
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 1rem;
+      }
+    }
+  </style>
+</head>
 
-🗂️ Structure
-| Folder | Purpose |
-|---------|----------|
-| `/diary` | Learning logs and progress notes |
-| `/vocab` | Thematic vocabulary lists |
-| `/grammar` | Grammar explanations and summaries |
-| `/resources` | Books, podcasts, and online resources |
-| `/exercises` | Writing, translation, and listening practice |
+<body>
 
----
+  <header>Mijn Nederlands — Learning Dutch</header>
 
-🧩 Tools & Techniques
-- **Anki** for spaced repetition
-- **DutchPod101** for listening practice
-- **ChatGPT & Deepl** for writing correction
-- **Dutch news (NOS, RTL Nieuws)** for immersion
+  <div class="container">
 
----
+    <nav>
+      <div class="section-title">Learn / Topics</div>
+      <ul>
+        <li><a href="#Dutch-Numeration">Dutch Numeration</a></li>
+        <li><a href="#Dutch-Place-Names">Dutch Place Names</a></li>
+        <li><a href="#Places-Vocab">Places & Locations Vocab</a></li>
+        <li><a href="#History-Dutch-Language">History of Dutch</a></li>
+        <li><a href="#Verbs-Intro">Dutch Verbs — Intro</a></li>
+        <li><a href="#Verb-System">Dutch Verb System</a></li>
+      </ul>
+    </nav>
 
-🏁 Progress
-| Date | Focus | Notes |
-|------|--------|-------|
-| 2025-10-17 | Vocabulary: Food & Drinks | Learned 50 new words, practiced pronunciation. |
+    <main>
+      <h1 id="Dutch-Numeration">Dutch Numeration: How to Learn Numbers</h1>
+      <p>Welcome to my personal project for learning Dutch. This repository serves both as a structured learning journal and resource library.</p>
 
+      <!-- ADD your sections below as <section id="..."> -->
+      <section id="Dutch-Place-Names">
+        <h2>Dutch Place Names — Understanding Location Suffixes</h2>
+        <p>...</p>
+      </section>
 
-# Header 1
+      <section id="Places-Vocab">
+        <h2>Dutch Places & Locations — Complete Vocabulary Guide</h2>
+        <p>...</p>
+      </section>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+      <section id="History-Dutch-Language">
+        <h2>History of the Dutch Language</h2>
+        <p>...</p>
+      </section>
 
-## Topic modeled related vocabulary
+      <section id="Verbs-Intro">
+        <h2>Dutch Verbs — A Comprehensive Introduction</h2>
+        <p>...</p>
+      </section>
 
-- Locations & Places 
-- Name Suffixes
+      <section id="Verb-System">
+        <h2>The Dutch Verb System — A Deep Dive</h2>
+        <p>...</p>
+      </section>
 
-### Media
+    </main>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+  </div>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</body>
+</html>
