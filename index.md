@@ -1,48 +1,8 @@
 ---
 layout: default
+title: Mijn Nederlands
+home: true
 ---
-
-Welcome to my personal project for learning Dutch.  
-This repository serves as both a structured learning journal and a resource library.
-
----
-
-I decided to learn Dutch in 2023. It had been a while since I seriously attempted to learn another language. After two years and even having moved to the Netherlands, I still do not have a level I consider sufficient 🥲 So I decided to make this Github page to consolidate all the many tools and resources I use to learn this language in one place. Hopefully, by incorporating coding and other elements, the memorization that typically goes into learning a language will be easier
-
----
-
-📚 Goals
-- Reach **CEFR Level B2** by the end of 2026.
-- Improve comprehension of Dutch media (news, podcasts, and conversation).
-- Build a vocabulary of at least **5,000 words**.
-
----
-
-🗂️ Structure
-| Folder | Purpose |
-|---------|----------|
-| `/diary` | Learning logs and progress notes |
-| `/vocab` | Thematic vocabulary lists |
-| `/grammar` | Grammar explanations and summaries |
-| `/resources` | Books, podcasts, and online resources |
-| `/exercises` | Writing, translation, and listening practice |
-
----
-
-🧩 Tools & Techniques
-- **Anki** for spaced repetition
-- **DutchPod101** for listening practice
-- **ChatGPT & Deepl** for writing correction
-- **Dutch news (NOS, RTL Nieuws)** for immersion
-
----
-
-🏁 Progress
-| Date | Focus | Notes |
-|------|--------|-------|
-| 2025-10-17 | Vocabulary: Food & Drinks | Learned 50 new words, practiced pronunciation. |
-
-
-```
-The final element.
-```
+<section class="hero"><div><p class="eyebrow">A personal Dutch learning project</p><h1>Van beginner<br>naar <em>B2.</em></h1><p class="hero-copy">One organised place for the Dutch I actually need: everyday vocabulary, clear grammar, high-frequency verbs and listening practice for life in the Netherlands.</p><div class="button-row"><a class="button" href="{{ '/lessons.html' | relative_url }}">Start a lesson →</a><a class="button secondary" href="{{ '/vocabulary.html' | relative_url }}">Browse vocabulary</a></div></div><aside class="hero-card"><span class="week">THE ROAD TO B2</span><h3>Small sessions.<br>Useful Dutch.</h3><ul class="checklist"><li>Build a 5,000-word vocabulary</li><li>Understand Dutch media</li><li>Speak confidently at work</li><li>Reach B2 by the end of 2026</li></ul></aside></section>
+<section><div class="section-head"><div><p class="eyebrow">Study library</p><h2>Choose your focus</h2></div><p>The original notes are now arranged as practical study routes instead of a collection of disconnected pages.</p></div><div class="card-grid"><a class="card" href="{{ '/lessons.html' | relative_url }}"><span class="number">01 · COURSE</span><h3>Beginner lessons</h3><p>Greetings, introductions, questions, daily routines and real-life mini-dialogues.</p></a><a class="card" href="{{ '/vocabulary.html' | relative_url }}"><span class="number">02 · WORDS</span><h3>Vocabulary by theme</h3><p>People, shopping, food, housing, transport and social life.</p></a><a class="card" href="{{ '/verbs.html' | relative_url }}"><span class="number">03 · CORE SKILL</span><h3>Essential verbs</h3><p>Frequent verbs with past forms, auxiliaries and participles.</p></a><a class="card" href="{{ '/grammatica/grammar.html' | relative_url }}"><span class="number">04 · STRUCTURE</span><h3>Grammar</h3><p>Conjugation, tense, modal verbs and sentence structure.</p></a><a class="card" href="{{ '/nummers.html' | relative_url }}"><span class="number">05 · REFERENCE</span><h3>Numbers</h3><p>Counting, dates, time, prices, decimals and large numbers.</p></a><a class="card" href="{{ '/locations.html' | relative_url }}"><span class="number">06 · AMSTERDAM</span><h3>Places & directions</h3><p>Finding your way around town and understanding place names.</p></a></div></section>
+<section class="resource-band"><div><p class="eyebrow">Listen in Dutch</p><h2>Learn with real voices</h2><p>Short, comprehensible videos make listening practice easier to repeat.</p></div><div class="channel-buttons"><a class="button" href="https://www.youtube.com/@SociaTaal" target="_blank" rel="noopener">Watch SociaalTaal ↗</a><a class="button" href="https://www.youtube.com/watch?v=8vb2j-8LviY" target="_blank" rel="noopener">Watch subtitled Nijntje ↗</a></div></section>

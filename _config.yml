@@ -1,7 +1,9 @@
-# _config.yml
 title: Mijn Nederlands
-description: A Dutch learning website
-theme: jekyll-theme-leap-day
-
-# Optional:
-show_downloads: true
+description: Daniel's personal Dutch-learning notebook - lessons, vocabulary, grammar and practice resources.
+url: https://cgreposit.github.io
+baseurl: /mijnNederlands
+lang: en
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md

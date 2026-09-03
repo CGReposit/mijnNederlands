@@ -1,4 +1,4 @@
-# 🇳🇱 Dutch Verbs — A Comprehensive Introduction
+# Dutch grammar: verbs
 
 Dutch verbs (*werkwoorden*) are an essential part of mastering the language. They express actions, states, and occurrences, and—like in English—change form to indicate tense, person, and number.  
 This guide introduces the structure of Dutch verbs, explains the difference between **regular** and **irregular** verbs, and provides practical examples and conjugation tables.
@@ -185,5 +185,4 @@ Formed with **hebben** or **zijn** + **past participle**.
 
 
 ---
-
 
