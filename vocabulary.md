@@ -19,7 +19,9 @@ title: Vocabulary
 | vertraging | delay | De trein heeft vertraging. |
 | tevreden | satisfied | Ik ben tevreden met de buurt. |
 
-## University & admissions vocabulary
+<details>
+<summary><strong>Vocabulario Administrativo</strong></summary>
+
 These terms are especially useful for Dutch university administration and admissions work.
 
 | Dutch | English | Meaning / definition |
@@ -74,6 +76,8 @@ These terms are especially useful for Dutch university administration and admiss
 | bijkomend | additional / extra | Something extra that comes in addition to what is already present. |
 
 > **Useful distinction:** *aanvraag* = application, *toelaatbaar* = admissible, *toelating* = admission, and *inschrijving* = enrolment. These are related stages, but they are not interchangeable.
+
+</details>
 
 ## A five-minute drill
 1. Pick five words from one theme.
