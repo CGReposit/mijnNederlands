@@ -1,4 +1,4 @@
-# 📝
+# Wat is dit? 📝
 
 This repository is a personal collection of Dutch vocabulary — essentially a **visual notebook** for words and expressions that I want to learn, remember, or understand in context.
 
